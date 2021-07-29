@@ -1,9 +1,10 @@
 разрывная хрень
 one more distraction
 and another one
-and dnother one
+and another one
 feature1 ++
-master edit +++++
+other changes
+
 
 
 
